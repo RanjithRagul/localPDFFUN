@@ -1,0 +1,5 @@
+{
+  "name": "LocalPDF Secure",
+  "description": "A secure, client-side only PDF tool to lock and unlock PDF files instantly directly in your browser.",
+  "requestFramePermissions": []
+}
